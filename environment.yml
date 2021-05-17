@@ -6,3 +6,6 @@ dependencies:
     - scipy
     - matplotlib
     - tqdm
+    - numba
+    - scikit-image
+    - pillow
